@@ -1,3 +1,3 @@
-U-Net for skin lesion segmentation can be found as haggingface model: Naahbi/lesion_seg_unet
-HAM10000 dataset used to train the unet model for the segmentation task: https://www.kaggle.com/datasets/surajghuwalewala/ham1000-segmentation-and-classification
-PH2 dataset used to train the svm classifiers to detect complex structures: https://www.kaggle.com/datasets/spacesurfer/ph2-dataset
+- U-Net for skin lesion segmentation can be found as haggingface model: Naahbi/lesion_seg_unet
+- HAM10000 dataset used to train the unet model for the segmentation task: https://www.kaggle.com/datasets/surajghuwalewala/ham1000-segmentation-and-classification
+- PH2 dataset used to train the svm classifiers to detect complex structures: https://www.kaggle.com/datasets/spacesurfer/ph2-dataset
